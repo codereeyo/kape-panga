@@ -932,6 +932,12 @@ footer hr{
     }
 }
 
+@media screen and (max-width: 370px){
+    section .reviews .reviews-container .customer-review{
+        height: 430px;
+    }
+}
+
 @media screen and (max-width: 350px){
     section .reviews .reviews-container .customer-review{
         height: 500px;
